@@ -1,0 +1,147 @@
+#logo-img{
+    height: 100%;
+  margin-left:100px;
+}
+#cv-icon{
+  margin-right: 130px;
+}
+body{
+  background-color: grey;
+}
+#section-one{
+  margin: auto;
+  width: 70%;
+  background-color: #D3D3D3;
+  text-align: right;
+  font-size: 19px;
+  font-family: 'Noticia Text', serif;
+}
+#firstp{
+  margin-top:130px;
+}
+#line1{
+    border: 0;
+    height: 2px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+#mephoto{
+  margin-top:80px;
+  margin-bottom:30px;
+  margin-right: 15px;
+  width:200px;
+  border-radius: 50%;
+}
+#middle-sec{
+  margin: auto;
+  width: 70%;
+  background-color: #e3e3e3;
+  font-size: 19px;
+  font-family: 'Noticia Text', serif;
+}
+#section-two{
+  margin: auto;
+  width: 70%;
+  background-color: #e3e3e3;
+  font-size: 19px;
+  font-family: 'Noticia Text', serif;
+}
+
+#h2-port{
+  margin-top: auto;
+  text-align: center;
+}
+#line2{
+    border: 0;
+    height: 2px;
+    max-width: 80%;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+.port-h3{
+  text-align: center;
+  font-size: 20px;
+}
+.molly-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width:80%;
+  max-height: 220px;
+  margin-bottom: 30px;
+}
+#middle-sec-2{
+  margin: auto;
+  width: 70%;
+  background-color: white;
+  font-size: 19px;
+  font-family: 'Noticia Text', serif;
+}
+#middle-sec-3{
+  margin: auto;
+  margin-top: 110px;
+  width: 70%;
+  background-color: white;
+  font-size: 19px;
+  font-family: 'Noticia Text', serif;
+}
+#section-three{
+  margin: auto;
+  width: 70%;
+  background-color: white;
+  font-size: 19px;
+  font-family: 'Noticia Text', serif;
+}
+#h2-me{
+   margin-top: auto;
+  text-align: center;
+}
+#line3{
+    border: 0;
+    height: 2px;
+    max-width: 80%;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+#slideshow{
+    position: relative; 
+    margin: auto;
+  width: 90%;
+ }
+#slideshow > div { 
+    position: absolute; 
+  text-align: center;
+}
+#section-four{
+  margin: auto;
+  width: 70%;
+  background-color: black;
+  font-size: 19px;
+  font-family: 'Noticia Text', serif;
+}
+#footerp{
+  margin-top: 19px;
+  margin-bottom: 19px;
+  margin-right: 30px;
+  color: white;
+  text-align: right;
+  font-size: 20px;
+}
+#github-img{
+  height: 60px;
+  margin: auto;
+  margin-left: 30px;
+}
+#linkedin-img{
+  height: 53px;
+  margin: auto;
+  margin-left: 12px;
+  margin-top: 2px;
+}
+#email-img{
+  height: 64px;
+  margin: auto;
+  margin-left: 12px;
+  margin-top: 2px;
+  color: white;
+}
