@@ -7,6 +7,7 @@
 }
 body{
   background-color: grey;
+  padding-top: 60px;
 }
 #section-one{
   margin: auto;
@@ -17,7 +18,7 @@ body{
   font-family: 'Noticia Text', serif;
 }
 #firstp{
-  margin-top:130px;
+  margin-top:60px;
 }
 #line1{
     border: 0;
